@@ -1,4 +1,4 @@
-Análisis de Datos – Alura Store
+Análisis de Datos
 📌 Propósito
 
 Este proyecto analiza el desempeño de cuatro tiendas de Alura Store con el objetivo de identificar cuál presenta menor rendimiento comercial y debería considerarse para su venta.
